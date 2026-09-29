@@ -70,3 +70,4 @@ PivotTables
 Data visualization
 Dashboard development
 Communicating analytical findings
+![NYC Parks Maintenance Dashboard](dashboard.png)
