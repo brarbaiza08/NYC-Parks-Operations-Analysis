@@ -54,9 +54,6 @@ Maintenance requests by borough
 Maintenance requests by issue type
 Key findings
 Project Structure
-NYC-Parks-Maintenance-Analysis/
-
-Skills Demonstrated
 
 This project demonstrates foundational skills in:
 
