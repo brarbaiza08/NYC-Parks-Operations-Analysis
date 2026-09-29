@@ -55,9 +55,7 @@ Maintenance requests by issue type
 Key findings
 Project Structure
 NYC-Parks-Maintenance-Analysis/
-│
-├── README.md
-└── NYC_Parks_Maintenance_Analysis.xlsx
+
 Skills Demonstrated
 
 This project demonstrates foundational skills in:
